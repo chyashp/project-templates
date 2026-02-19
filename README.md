@@ -136,6 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Nanushi Website](https://nanushi.io)
+- [Nanushi Website](https://nanushi.org)
 - [Documentation](https://github.com/nanushi-io/nanushi-docs)
 - [Discord Community](https://discord.gg/nanushi)
